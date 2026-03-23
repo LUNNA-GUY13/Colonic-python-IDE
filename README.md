@@ -7,10 +7,10 @@ Welcome to COLONICAL, a Language with and fricking awesome IDE. This project is 
 `COLONICAL.PY` is a single Python script that runs a complete Integrated Development Environment (IDE) for a custom-designed, esoteric programming language called "Colonic". The language is unique in that most operations cost "points" ($), which you must earn by "working" within your script.
 
 The project is a demonstration of:
-- A recursive descent parser.
+- A recursive descent parser(which is decent enough).
 - A simple bytecode-less interpreter.
 - Building a GUI application with Python's `tkinter`.
-- ~~PAIN~~ FUN
+- ~~PAIN~~ FUN (yes totally fun).
 
 ## Features
 
@@ -20,7 +20,7 @@ The project is a demonstration of:
     - Dark mode, VS Code-inspired theme.
     - Syntax highlighting.
     - Line numbers.
-    - A comprehensive Syntax Guide sidebar.
+    - A comprehensive Syntax Guide sidebar.(which is just Text on a side bar).
     - An integrated terminal to see script output.
     - which looks like : <img width="1919" height="1025" alt="IDE EXAMPLE" src="https://github.com/user-attachments/assets/f0886d9d-3454-4b23-b77b-c419554eb69b" />
  
@@ -32,7 +32,7 @@ The project is a demonstration of:
 
 ## How to Run
 
-You need Python 3.x and Tkinter installed (which is usually included with Python).
+You need Python 3.x and Tkinter (which is usually included with Python)(HYPER OPTIONAL : `pip install numba` for some features :) ).
 
 1.  Save the `COLONICAL.PY` script.
 2.  Run it from your terminal:
@@ -40,7 +40,7 @@ You need Python 3.x and Tkinter installed (which is usually included with Python
     python COLONICAL.PY
     ```
 
-## How to Create a Standalone Executable (.exe)
+## How to Create a Standalone Executable (.exe)(ON JOD WHY????)
 
 You can package the IDE into a single `.exe` file on Windows, making it easy to share and run without needing a Python installation.
 
@@ -57,10 +57,10 @@ You can package the IDE into a single `.exe` file on Windows, making it easy to 
     - `--onefile`: Bundles everything into a single executable file.
     - `--windowed`: Prevents a console window from appearing in the background when you run the app.
     - `--icon=NONE`: Prevents a default icon from being used.
-
+    
 3.  **Find your .exe:**
     PyInstaller will create a `dist` folder. Inside, you will find `COLONICAL.exe`.
-
+    (why am i explaining pyinstaller again??)
 ## Basic Syntax Overview
 
 | Command | Description |
