@@ -81,4 +81,5 @@ You can package the IDE into a single `.exe` file on Windows, making it easy to 
 | `?$!! "Title"` | **Window:** Creates a new GUI window. Costs points. |
 | `!plugin "f.col"` | **Plugin:** Loads and runs another `.col` script. |
 | `!compile "output.py"` | **Compile:** Compiles the current script into a standalone Python file. |
+|`:`|**Comment:**It's used for comments in code.|
 |HAVE FUN!|OR ROAST IT ;)|
