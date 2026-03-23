@@ -1,6 +1,6 @@
 #  Colonic IDE & Language
 
-Welcome to COLONICAL, a Language with and fricking awesome IDE. This project is for the people who like brainf**k but wish it was just ... more capitalist? (and also had a built-in IDE and with cheat codes), then this counts I guess.(ALSO it's nothing like brainf##k)
+Welcome to COLONICAL, a Language with a fricking awesome IDE. This project is for the people who like brainf**k but wish it was just ... more capitalist? (and also had a built-in IDE and with cheat codes), then this counts I guess.(ALSO it's nothing like brainf##k)
 
 ## What is this?
 
