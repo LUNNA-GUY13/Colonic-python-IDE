@@ -1,6 +1,6 @@
 #  Colonic IDE & Language
 
-Welcome to COLONICAL, a Language with and fricking awesome IDE. This project is for the people who like brainf**k but wish it was just ... more capitalist? (and also had a built-in IDE and with cheat codes), then this counts I guess.(ALSO it's noting like brainf##k)
+Welcome to COLONICAL, a Language with and fricking awesome IDE. This project is for the people who like brainf**k but wish it was just ... more capitalist? (and also had a built-in IDE and with cheat codes), then this counts I guess.(ALSO it's nothing like brainf##k)
 
 ## What is this?
 
@@ -22,7 +22,8 @@ The project is a demonstration of:
     - Line numbers.
     - A comprehensive Syntax Guide sidebar.
     - An integrated terminal to see script output.
-    - which looks like![image-20260323230259948](C:\Users\manat\AppData\Roaming\Typora\typora-user-images\image-20260323230259948.png)
+    - which looks like : <img width="1919" height="1025" alt="IDE EXAMPLE" src="https://github.com/user-attachments/assets/f0886d9d-3454-4b23-b77b-c419554eb69b" />
+ 
 - **GUI Creation:** Use commands within your script to create new windows and draw pixels.
 - **System & File I/O:** Interact with the file system and launch a system console.
 - **Plugins:** Load other `.col` scripts as libraries.
