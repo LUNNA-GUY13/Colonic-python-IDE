@@ -586,7 +586,6 @@ class ColonicIDE:
             "Functions": ["?????? name : Def func", "call name : Call func"],
             "GUI": ['?$!! "Title" : New Window', '?$pixel "Win" : Draw'],
             "System": ["!console", "!compile", "!plugin"],
-            "Cheats": ["UPUPDOWNDOWN", "SONIC", "HYPERINFLATION", "..."]
         }
         for category, commands in items.items():
             cat_id = self.syntax_tree.insert("", "end", text=category, open=True)
